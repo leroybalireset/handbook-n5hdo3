@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leroybalireset.github.io/handbook-n5hdo3/sitemap.xml
